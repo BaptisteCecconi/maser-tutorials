@@ -1,0 +1,7 @@
+name: tutorials
+dependencies:
+- matplotlib
+- numpy
+- pip
+- pip:
+   - git+https://github.com/maserlib/maser4py
